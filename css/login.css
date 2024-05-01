@@ -1,0 +1,103 @@
+*{ padding:0; margin:0; box-sizing:border-box; font-family: 'Poppins',sans-serif}
+
+body{
+	background-color: #228cdc;	
+}
+.container{
+	width: 100%;
+	align-items: center;
+	display: flex;
+	height: 100vh;
+	justify-content: center;
+}
+
+form{
+	width: 400px;
+	margin-top: 30px;
+
+}
+
+.form{
+	border-radius: 10px;
+	padding: 10px;
+	background-color: white ;
+}
+
+.form-con{
+	padding: 10px;
+/*	background-color: lightpink;*/
+}
+
+h2{
+	text-align: center;
+}
+
+h2{
+	font-size: 30px;
+}
+
+button{
+	width: 100%;
+	padding: 10px;
+	margin-top: 30px;
+	border: none;
+	height: 3rem;
+}
+
+button:hover{
+
+	background-color: #ded9ee;
+}
+
+
+input{
+/*	border-radius: 10px;*/
+	border: 1px solid #ded9ee;
+
+}
+.label{
+	margin-top: 10px;
+	margin-bottom: 5px;
+}
+
+.field{
+	height: 30px;
+}
+
+.field input{
+	height: 100%;
+	width: 100%;
+}
+
+.forget-link{
+	margin-top: 10px;
+}
+.message{
+ 	padding: 10px;
+ 	background-color: darkred;
+}
+
+.logout-m{
+	padding: 10px;
+	background-color: green;
+	color: white;
+}
+
+.result-em{
+	margin-top: 10px;
+	/*animation: fadeOut 2s forwards;
+    animation-delay: 5s;*/
+}
+
+
+.mee{
+	background-color: red;
+	color: white;
+	padding: 10px;
+	margin-top: 20px;
+	border: 1px solid gray;
+	border-radius: 10px;
+}
+#hehe{
+	
+}

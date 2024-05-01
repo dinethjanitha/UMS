@@ -1,0 +1,70 @@
+*{overflow: hidden;}
+
+.logo{
+	font-size: 30px;
+	font-weight: bold;
+}
+
+.userpage{
+	margin-top: 30px;
+}
+.navbar{
+	background-color: chocolate;
+}
+
+.brand-name{
+	color: white;
+}
+
+.navbar-nav{
+	float: right;
+}
+
+.adduserlink{
+	margin-left: 5px;
+	font-size: 15px;
+}
+
+.alert-email{
+	margin-top: 5px;
+	margin-bottom: 5px;
+	padding: 4px;
+}
+
+.firstnameHelpBlock{
+	color: red;
+}
+
+#lasnameHelpBlock{
+	color: red;
+}
+
+.emailAlert{
+	color: red;
+	padding: 5px;
+	background-color: beige;
+}
+
+.user-added{
+	padding: 5px;
+	color: green;
+	background-color: beige;
+}
+
+.btn-2{
+	position: static;
+	left: 0;
+	text-align: left;
+}
+
+.user-not-found{
+	padding: 5px;
+	color: red;
+	background-color: beige;
+	margin-bottom: 10px;
+}
+
+
+
+
+
